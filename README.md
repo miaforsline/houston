@@ -17,3 +17,5 @@ The following packages were utilized during this analysis:
 - `tmap`
 - `lintr`
 - `rosm`
+
+The original assignment instructions and raw data can be found [here](https://jamesfrew.github.io/EDS_223_spatial_analysis/assignments/2/HW2.html). 
