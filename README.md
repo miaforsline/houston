@@ -1,4 +1,4 @@
-# # EDS 223: Spatial Analysis for Environmental Data Science - Spatial Analysis 
+# EDS 223: Spatial Analysis for Environmental Data Science - Spatial Analysis 
 ### Authors: Mia Forsline and Alexandra Yousefivand 
 ### Due date: 2021-10-24
 
